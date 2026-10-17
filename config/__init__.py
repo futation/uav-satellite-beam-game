@@ -1,0 +1,1 @@
+"""Central simulation parameters."""
